@@ -167,7 +167,7 @@ Linear Regression uses its default constructor. Decision Tree specifies `random_
 - **Charges have a long right tail**, with fewer high-charge records.
 - **The nonlinear models improve on the linear baseline** in this recorded comparison.
 
-![Random Forest feature importance from the project notebook](assets/feature-importance.png)
+
 
 <details>
 <summary><strong>🌲 View the complete feature importance table</strong></summary>
