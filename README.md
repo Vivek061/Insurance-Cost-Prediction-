@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Insurance Cost Prediction banner](assets/insurance-banner.svg)
+
 
 # 🛡️ Insurance Cost Prediction
 
